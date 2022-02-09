@@ -1,0 +1,1 @@
+# P225_CSharp_09-08-2022_Anonym-Object_Class_Agregation_Constructor_Inheritance_Partial
