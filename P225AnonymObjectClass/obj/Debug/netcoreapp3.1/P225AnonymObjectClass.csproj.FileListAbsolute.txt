@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\bin\Debug\netcoreapp3.1\P225AnonymObjectClass.exe
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\bin\Debug\netcoreapp3.1\P225AnonymObjectClass.deps.json
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\bin\Debug\netcoreapp3.1\P225AnonymObjectClass.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\bin\Debug\netcoreapp3.1\P225AnonymObjectClass.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\bin\Debug\netcoreapp3.1\P225AnonymObjectClass.dll
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\bin\Debug\netcoreapp3.1\P225AnonymObjectClass.pdb
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\obj\Debug\netcoreapp3.1\P225AnonymObjectClass.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\obj\Debug\netcoreapp3.1\P225AnonymObjectClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\obj\Debug\netcoreapp3.1\P225AnonymObjectClass.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\obj\Debug\netcoreapp3.1\P225AnonymObjectClass.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\obj\Debug\netcoreapp3.1\P225AnonymObjectClass.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\obj\Debug\netcoreapp3.1\P225AnonymObjectClass.dll
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\obj\Debug\netcoreapp3.1\P225AnonymObjectClass.pdb
+C:\Users\memme\Desktop\P225\Task\P225AnonymObjectClass\obj\Debug\netcoreapp3.1\P225AnonymObjectClass.genruntimeconfig.cache
